@@ -1,0 +1,11 @@
+{
+    "emailPlaceHolder": "john@email.com",
+    "password": "পাসওয়ার্ড",
+    "forgotPassword": "পাসওয়ার্ড ভুলে গেছেন?",
+    "signIn": "সাইন ইন করুন",
+    "signUp": "সাইন আপ করুন",
+    "confirmPassword": "পাসওয়ার্ড নিশ্চিত করুন",
+    "cantLogin": "আপনি লগইন করতে অক্ষম?",
+    "updateProfilePicture":"প্রোফাইল পিকচার আপডেট করুন",
+    "next": "নেক্সট"
+}

@@ -1,0 +1,11 @@
+{
+  "emailPlaceHolder": "john@email.com",
+  "password": "contraseña",
+  "forgotPassword": "¿Se te olvidó tu contraseña?",
+  "signIn": "Iniciar sesión",
+  "signUp": "Regístrate",
+  "confirmPassword": "Confirmar contraseña",
+  "cantLogin": "no puede iniciar sesión?",
+  "updateProfilePicture":"Actualizar imagen de perfil",
+  "next": "Siguiente"
+}
